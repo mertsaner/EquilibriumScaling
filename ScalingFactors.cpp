@@ -170,4 +170,5 @@ tuple<SparseMatrix, Vector, Vector> read_Abc(GRBModel& model) {
     SparseMatrix A(m, n);
     A.setFromTriplets(triplet.begin(), triplet.end());
     return {A, b, c};
+    
 }
