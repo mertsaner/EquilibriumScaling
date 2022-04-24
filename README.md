@@ -1,4 +1,5 @@
 # EquilibriumScaling
+To run the program first Gurobi C++ API should be ready 
 Scaling.cpp:
  - Select .lp file to feed the program with your LP/IP or MIP and it gives you Row and Column Scaling Factors 
  - Optionally You can reach scaled A, B and C matrices, for that you need to uncomment certain part of the code
