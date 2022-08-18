@@ -1,7 +1,7 @@
 # EquilibriumScaling
 To run the program first Gurobi C++ API should be ready 
 
-To configure the program according to your needs, edit ScalingFactors.cpp using instructions below;
+To configure the program according to your needs, edit ScalingFactors.cpp
  - Select .lp file to feed the program with your LP/IP/MIP and it will give you Row and Column Scaling Factors 
  
  #### Notes 
