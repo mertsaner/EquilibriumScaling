@@ -1,7 +1,7 @@
 ## Equilibrium Scaling
 
 ### Prerequisite
-- To run the program first Gurobi C++ API should be ready 
+- To run the program firstly Gurobi C++ API should be ready 
 
 ### Usage
 - To configure the program according to your needs, edit `ScalingFactors.cpp`
