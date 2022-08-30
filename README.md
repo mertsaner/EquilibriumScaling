@@ -1,4 +1,4 @@
-# Equilibrium Scaling
+## Equilibrium Scaling
 
 ### Prerequisite
 - To run the program first Gurobi C++ API should be ready 
