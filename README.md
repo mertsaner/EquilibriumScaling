@@ -13,4 +13,4 @@
 ### Notes 
 - `Scaling.h`is a header file that compares the result of the scaled program with the original program. To do that it uses a .xml file instead of .lp files like ScalingFactors.cpp.
 - Optionally You can reach scaled A, B and C matrices, for that you need to uncomment certain parts of the code. While printing A, B, and C matrices, printing to the console is not recommended since it makes the program slow down. So it is better to write them to the file.  
-- You can reuse the scaling factors (R and C) or A, B and C depending on your own needs, for example, they can be fed into the program again and make the program solve the already scaled program.
+- You can reuse the scaling factors (R and C) or A, B and C depending on your own needs. For example, they can be fed into the program again and make the program solve the already scaled program. You can edit/update `Scaling.h` to compare result of scaled and unscaled versions.
