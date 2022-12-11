@@ -1,6 +1,6 @@
 ## Equilibrium Scaling
 
-### Prerequisite
+### Prerequisites
 - To run the program firstly Gurobi C++ API should be ready. To install Gurobi Solver [click here.](https://www.gurobi.com/free-trial/ "Gurobi Solver Website")
 - The program require Eigen library to read large .lp files. Hence you need to include Eigen library to the program. For Eigen library download instructions [click here.](https://eigen.tuxfamily.org/ "Eigen library download")
 
