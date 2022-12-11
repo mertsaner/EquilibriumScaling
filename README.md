@@ -11,6 +11,6 @@
 - `Small_Investment_Model_presolved.lp`, `my.lp` and `trial.lp` are three sample .lp files to test the program.
  
 ### Notes 
-- `Scaling.h`is a header that compares result of scaled program with the original program. To do that it uses .xml files instead of .lp files like ScalingFactors.cpp.
+- `Scaling.h`is a header file that compares result of scaled program with the original program. To do that it uses .xml file instead of .lp files like ScalingFactors.cpp.
 - Optionally You can reach scaled A, B and C matrices, for that you need to uncomment certain parts of the code. While printing A, B, C matrices, printing to console is not recommended since it makes program slow down. So it is better to write them to the file.  
 - You can use the scaling factors (R and C) or A, B and C for your own needs, for example, they can be fed into the program again and make the program solve already scaled program.
